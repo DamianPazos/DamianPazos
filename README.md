@@ -3,6 +3,9 @@
 ### 💻  Actualmente me encuentro realizando el curso de Python de Coder House
 ### 🛠️  Con muchas ganas de iniciar en el mundo IT
 ### 💡   Cuento con conocimientos en:
+    - VSC
+    - Python
+    - C#
 
     
 
