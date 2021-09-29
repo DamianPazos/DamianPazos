@@ -6,6 +6,9 @@
     - VSC
     - Python
     - C#
+    - Git
+    - GitHub
+    - MySQL
 
     
 
