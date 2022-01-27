@@ -1,7 +1,6 @@
 # ¡Hola! Soy Damian Pazos
-### 📚  Soy estudiante de 2do año de ingenieria en informatica en la UNAJ
-### 💻  Actualmente me encuentro realizando el curso de Python de Coder House
-### 🛠️  Con muchas ganas de iniciar en el mundo IT
+### 📚  Soy estudiante ingenieria en informatica en la UNAJ
+### 🛠️  Desarrollando una pasantia en el rubro IT en Andreani
 ### 💡   Cuento con conocimientos en:
     - VSC
     - Python
