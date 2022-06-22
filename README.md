@@ -1,6 +1,6 @@
 <h1 align="center">Damian Pazos</h1>
 <h3 align="center">Estudiante de Ingeniería en Informática</h3>
-<h3 align="center">Pasante IT en Andreani</h3>
+<h3 align="center">Desarrollador JR en Andreani</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damianpazos&label=Profile%20views&color=0e75b6&style=flat" alt="damianpazos" /> </p>
 
